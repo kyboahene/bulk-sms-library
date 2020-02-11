@@ -1,0 +1,27 @@
+{
+  "name": "bulk-sms-library",
+  "version": "1.0.0",
+  "description": "A simple module to consume the sms globala library\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmosAidoo/bulk-sms-library.git"
+  },
+  "keywords": [
+    "sms",
+    "bulk"
+  ],
+  "author": "BrandAfrik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmosAidoo/bulk-sms-library/issues"
+  },
+  "homepage": "https://github.com/AmosAidoo/bulk-sms-library#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
